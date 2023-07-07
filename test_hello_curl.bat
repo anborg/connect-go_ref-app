@@ -1,0 +1,1 @@
+curl  --header "Content-Type: application/json" --data "@test_post_data.json" http://localhost:8080/greet.v1.GreetService/Greet
